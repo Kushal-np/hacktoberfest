@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kushal Poudel](https://github.com/Kushal-np)
+- Place: Nepal
+- Bio: Open source contributor
+- Github: [Kushal Poudel](https://github.com/Kushal-np)
